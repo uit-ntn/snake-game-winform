@@ -1,0 +1,10 @@
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\bin\Debug\Snake Game (o.o).exe.config
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\bin\Debug\Snake Game (o.o).exe
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\bin\Debug\Snake Game (o.o).pdb
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake_Game__o.o_.Form1.resources
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake_Game__o.o_.Properties.Resources.resources
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game.csproj.GenerateResource.cache
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game (o.o).exe
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game (o.o).pdb

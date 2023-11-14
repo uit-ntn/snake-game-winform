@@ -1,0 +1,20 @@
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\bin\Debug\Snake Game (o.o).exe.config
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\bin\Debug\Snake Game (o.o).exe
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\bin\Debug\Snake Game (o.o).pdb
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\obj\Debug\Snake Game (o.o).csprojAssemblyReference.cache
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\obj\Debug\Snake_Game__o.o_.Form1.resources
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\obj\Debug\Snake_Game__o.o_.Properties.Resources.resources
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\obj\Debug\Snake Game (o.o).csproj.GenerateResource.cache
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\obj\Debug\Snake Game (o.o).csproj.CoreCompileInputs.cache
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\obj\Debug\Snake Game (o.o).exe
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\Snake Game (o.o)\obj\Debug\Snake Game (o.o).pdb
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\bin\Debug\Snake Game (o.o).exe.config
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\bin\Debug\Snake Game (o.o).exe
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\bin\Debug\Snake Game (o.o).pdb
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game (o.o).csproj.AssemblyReference.cache
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake_Game__o.o_.Form1.resources
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake_Game__o.o_.Properties.Resources.resources
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game (o.o).csproj.GenerateResource.cache
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game (o.o).csproj.CoreCompileInputs.cache
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game (o.o).exe
+C:\Users\nptha\src\c#\Snake Game\Snake Game (o.o)\obj\Debug\Snake Game (o.o).pdb
